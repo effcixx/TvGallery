@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TvGallery</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello">Hello in my gallery!</string>
+    <string name="hiszp">Hiszpania</string>
+    <string name="wl">Włochy</string>
+    <string name="niem">Niemcy</string>
+    <string name="szw">Szwajcaria</string>
+    <string name="pol">Polska</string>
+    <string name="hiszp1">Hiszpania 1</string>
+    <string name="hiszp2">Hiszpania 2</string>
+    <string name="hiszp3">Hiszpania 3</string>
+    <string name="wlo1">Włochy 1</string>
+    <string name="wlo2">Włochy 2</string>
+    <string name="wlo3">Włochy 3</string>
+    <string name="niem1">Niemcy 1</string>
+    <string name="niem2">Niemcy 2</string>
+    <string name="niem3">Niemcy 3</string>
+    <string name="szw1">Szwajcaria 1</string>
+    <string name="szw2">Szwajcaria 2</string>
+    <string name="szw3">Szwajcaria 3</string>
+    <string name="pol1">Polska 1</string>
+    <string name="pol2">Polska 2</string>
+    <string name="pol3">Polska 3</string>
+</resources>
